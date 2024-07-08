@@ -1,16 +1,9 @@
-# tests
+Flutter Project with Unit Testing and TDD
+This project is dedicated to personal learning and practice, emphasizing the implementation of unit testing and Test-Driven Development (TDD) principles within Flutter applications.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Password Validation: Ensures passwords meet specified criteria.
+Email Validation: Verifies the correctness of email formats.
+Credential Verification: Validates both password and email credentials.
+Upcoming
+Widget Tests: Future updates will include widget tests for user interface components.
