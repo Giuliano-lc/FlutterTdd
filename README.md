@@ -4,7 +4,9 @@ This project is dedicated to personal learning and practice, emphasizing the imp
 
 ## Features
 Password Validation: Ensures passwords meet specified criteria.
+
 Email Validation: Verifies the correctness of email formats.
+
 Credential Verification: Validates both password and email credentials.
 
 ## TODO
